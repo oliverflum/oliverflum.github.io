@@ -284,5 +284,5 @@ by David Corbacho before using those functions. Also keep in mind that calling d
 call itself. If you have many dependencies in your listener you might lose more than you gain.  
 
 
-The final component is available [here](github.something/something).  
+The final component is available [here](https://github.com/oliverflum/diesdasdemos).  
 Feel free to (ab)use it. 
